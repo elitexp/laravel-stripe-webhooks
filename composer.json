@@ -1,17 +1,16 @@
 {
-    "name": "spatie/laravel-stripe-webhooks",
+    "name": "elitexp/laravel-stripe-webhooks",
     "description": "Handle stripe webhooks in a Laravel application",
     "keywords": [
         "spatie",
         "laravel-stripe-webhooks"
     ],
-    "homepage": "https://github.com/spatie/laravel-stripe-webhooks",
+    "homepage": "https://github.com/elitexp/laravel-stripe-webhooks",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "Sujip Maharjan",
+            "email": "elitexp2008@gmail.com",
             "role": "Developer"
         }
     ],
